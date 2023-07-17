@@ -6,11 +6,6 @@ public class WaterBillApp {
 		private static int metercharge=75;
 		private static int charge=0;
 		private static int totalwaterbill;
-
-		//Scanner sc=new Scanner(System.in);
-//		System.out.println("Enter units : ");
-//		private int units=sc.nextInt();
-		
 		
 		public int waterBillCalculator(int units)
 		{
